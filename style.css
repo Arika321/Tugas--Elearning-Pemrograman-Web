@@ -1,0 +1,111 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background: linear-gradient(to right, #fff9c4, #ffe082);
+  margin: 0;
+  padding: 0;
+  color: #222;
+  transition: background 0.5s ease;
+}
+
+header {
+  text-align: center;
+  background-color: #222;
+  color: #fff;
+  padding: 40px 0;
+  border-bottom: 5px solid #fbc02d;
+}
+
+nav {
+  text-align: center;
+  background-color: #111;
+  padding: 15px;
+}
+
+nav button {
+  background-color: #fbc02d;
+  color: #111;
+  border: none;
+  padding: 12px 25px;
+  margin: 5px;
+  border-radius: 30px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: transform 0.3s, background 0.3s;
+}
+
+nav button:hover {
+  background-color: #111;
+  color: #fbc02d;
+  transform: scale(1.05);
+}
+
+main {
+  padding: 40px;
+  text-align: center;
+  animation: fadeIn 0.5s;
+  min-height: 60vh;
+}
+
+footer {
+  text-align: center;
+  padding: 15px;
+  background-color: #111;
+  color: #fbc02d;
+  font-size: 14px;
+  margin-top: 50px;
+}
+
+.next-btn {
+  background-color: #111;
+  color: #fbc02d;
+  padding: 12px 30px;
+  border-radius: 25px;
+  font-weight: bold;
+  border: none;
+  margin-top: 20px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.next-btn:hover {
+  background-color: #fbc02d;
+  color: #111;
+  transform: scale(1.1);
+}
+
+.book-card {
+  background-color: #fff;
+  display: inline-block;
+  width: 250px;
+  border-radius: 15px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+  margin: 15px;
+  padding: 15px;
+  text-align: center;
+  transition: transform 0.3s;
+}
+
+.book-card:hover {
+  transform: translateY(-5px);
+}
+
+.book-card img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.book-card h4 {
+  margin: 10px 0 5px;
+}
+
+.book-card p {
+  font-size: 14px;
+  color: #555;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
