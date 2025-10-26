@@ -1,5 +1,6 @@
 # Tugas E-Learning PemogramanWeb 1
    Mmebuat Website sederhana yang dibuat untuk tugas mata kuliah Pemrograman Web 1
+   ---
 
 # 📚 Website Baca Buku Online
 
@@ -39,26 +40,9 @@ Berikut hasil tampilan dari masing-masing halaman website:
 ![Tampilan Kontak](kontak.png.png)
 
 ---
+## 👩‍💻 Pembuat
 
-## 📸 Cara Upload Screenshot ke GitHub
-
-Jika kamu ingin menambahkan screenshot baru ke repository:
-
-1. Buka halaman repository di GitHub.  
-2. Klik **Add file → Upload files**.  
-3. Drag atau pilih file gambar (contohnya `beranda.png`, `koleksi.png`, dll).  
-4. Tambahkan pesan commit seperti:
-Upload screenshot halaman baru
-
-yaml
-Copy code
-5. Klik tombol hijau **Commit changes**.  
-6. File akan otomatis muncul di daftar repository seperti gambar di atas.
-
----
-
-## 📬 Kontak Developer
-
-- 📧 Email: **bacabukuonline@gmail.com**  
-- 📸 Instagram: [@bacabukuonline](https://instagram.com/bacabukuonline)
+- **Nama:** Arika Azhar  
+- **NPM:** 23552011408  
+- **Mata Kuliah:** Pemrograman Web 1  
 
