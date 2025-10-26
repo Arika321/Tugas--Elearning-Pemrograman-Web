@@ -9,13 +9,6 @@ Website sederhana Wbertema **Baca Buku Online** yang dibuat untuk memenuhi tugas
 Website ini memiliki tampilan interaktif dengan beberapa halaman seperti **Beranda, Koleksi Buku, Motivasi Membaca, dan Kontak**.
 
 ---
-Semua halaman diatur agar tampil **dalam satu file utama (`index.html`)**, dan isi halaman akan berubah ketika pengguna menekan tombol menu seperti:
-- **Beranda**
-- **Koleksi Buku**
-- **Motivasi**
-- **Kontak**
-
----
 
 ## 🖼️ Tampilan Website
 
