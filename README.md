@@ -9,13 +9,6 @@ Website sederhana Wbertema **Baca Buku Online** yang dibuat untuk memenuhi tugas
 Website ini memiliki tampilan interaktif dengan beberapa halaman seperti **Beranda, Koleksi Buku, Motivasi Membaca, dan Kontak**.
 
 ---
-
-## 👩‍💻 Pembuat
-
-- **Nama:** Arika Azhar  
-- **NPM:** 23552011408  
-- **Mata Kuliah:** Pemrograman Web 1  
-
 Semua halaman diatur agar tampil **dalam satu file utama (`index.html`)**, dan isi halaman akan berubah ketika pengguna menekan tombol menu seperti:
 - **Beranda**
 - **Koleksi Buku**
@@ -41,6 +34,12 @@ Berikut hasil tampilan dari masing-masing halaman website:
 ![Tampilan Kontak](kontak.png.png)
 
 ---
+## 👩‍💻 Pembuat
+
+- **Nama:** Arika Azhar  
+- **NPM:** 23552011408  
+- **Mata Kuliah:** Pemrograman Web 1  
+
 ## 👩‍💻 Pembuat
 
 - **Nama:** Arika Azhar  
