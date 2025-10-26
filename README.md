@@ -1,10 +1,11 @@
 # Tugas E-Learning PemogramanWeb 1
-   Mmebuat Website sederhana yang dibuat untuk tugas mata kuliah Pemrograman Web 1
+Membuat website sederhana yang dibuat untuk mata kuliah Pemrograman Web1 
+  
    ---
 
 # 📚 Website Baca Buku Online
 
-Website sederhana bertema **Baca Buku Online** yang dibuat untuk memenuhi tugas mata kuliah **Pemrograman Web 1**.  
+ebsite sederhana Wbertema **Baca Buku Online** yang dibuat untuk memenuhi tugas mata kuliah **Pemrograman Web 1**.  
 Website ini memiliki tampilan interaktif dengan beberapa halaman seperti **Beranda, Koleksi Buku, Motivasi Membaca, dan Kontak**.
 
 ---
